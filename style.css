@@ -14,5 +14,6 @@
 .blog:hover{
     box-shadow: 0px 0px 20px 0px #ffc107d3;
     transition: .3s;
-    transform:skewX(-10deg)
+    transform:skewX(-10deg);
+    background-color: hotpink;
 }
